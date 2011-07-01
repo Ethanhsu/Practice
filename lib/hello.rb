@@ -25,3 +25,5 @@ How about twenty?
 You complemeted me!
 
 SHow me the money!
+
+The first commit before NB notification.

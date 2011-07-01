@@ -26,4 +26,6 @@ You complemeted me!
 
 SHow me the money!
 
+The first commit before NB notification.
+
 Seq 2 that modified after Seq 1.

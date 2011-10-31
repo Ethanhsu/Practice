@@ -1,4 +1,4 @@
-Everyone hates Ethanhsu.
+Everyone hates Ethanhsu in master branch.
 
 
 

@@ -4,6 +4,6 @@ I said,what if god is one of us?
 
 tell me ,who cares?Jesus?Cefiro?
 
-I care.and you
+I care.everybody does.and you
 
 anybody else?

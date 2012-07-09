@@ -3,4 +3,9 @@ this is a document created and commit to github by Ethan's pc
 Learn about checkin with remote changes.
 Test about diff.
 I know, but....
-Changes as well w/o conflict.
+ABCD
+<<<<<<< HEAD
+IJK
+=======
+EFGH
+>>>>>>> origin/master

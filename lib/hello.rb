@@ -30,4 +30,4 @@ The first commit before NB notification.
 
 Seq 2 that modified after Seq 1.
 
-hi lucifer
+hi lucifer,jesus

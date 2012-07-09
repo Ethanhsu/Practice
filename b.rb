@@ -5,3 +5,5 @@ I said,what if god is one of us?
 who cares?
 
 I care.
+
+anybody else?

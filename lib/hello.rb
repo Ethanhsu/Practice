@@ -1,4 +1,4 @@
-The first line of hello.rb,USED TO BE
+I Think this is The first line of hello.rb,USED TO BE
 
 The first modification of hello.rb
 
